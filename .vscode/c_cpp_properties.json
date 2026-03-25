@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/include",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/arch/arm64/include",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/arch/arm64/include/generated",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/include/uapi",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/arch/arm64/include/uapi",
+                "/home/yevhen/linux-3b2b4267d502acb3f9183ceca20719c30e60fca3/arch/arm64/include/generated/uapi"
+            ],
+            "defines": [
+                "__KERNEL__",
+                "MODULE"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
