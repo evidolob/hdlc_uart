@@ -1,6 +1,6 @@
 # hdlc_uart
 
-Is simple HDLC over UART Linux driver
+Is simple [HDLC](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control) over UART Linux driver
 
 
 # Build
